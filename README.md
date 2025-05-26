@@ -1,29 +1,43 @@
-# Decentralized To-Do DApp
+# 📝 Decentralized To-Do DApp
 
-A simple decentralized application (DApp) for managing your to-do tasks on the Ethereum blockchain using Solidity and Hardhat.
+A sleek, secure, and simple decentralized application (DApp) that allows users to manage their to-do tasks on the Ethereum blockchain. Built with **Solidity**, **Hardhat**, **React**, and **Ethers.js**, this project is fully decentralized and censorship-resistant.
 
-## Features
+---
 
-- Create new tasks
-- View all tasks
-- Mark tasks as completed
-- Fully decentralized and blockchain-backed
+## 🚀 Features
 
-## Tech Stack
+- ✅ Add new tasks and store them securely on the blockchain
+- 👀 View your full task list anytime
+- ✔️ Mark tasks as completed
+- 🗑️ Delete tasks permanently
+- 🔐 Fully decentralized and tamper-proof
 
-- Solidity (Smart Contracts)
-- Hardhat (Development environment)
-- Ethers.js (Interaction with contracts)
-- Node.js / JavaScript
+---
 
-## Getting Started
+## 🛠️ Technologies Used
 
-### Prerequisites
+- **Solidity** – Smart contract development
+- **Hardhat** – Ethereum development and testing framework
+- **Ethers.js** – Interact with the blockchain from the frontend
+- **React.js** – Build a dynamic user interface
+- **Node.js & npm** – Development tooling and package management
 
-- Node.js installed
-- Metamask wallet (for frontend interaction, if implemented)
+---
 
-### Installation
+## 🧑‍💻 Getting Started
 
-```bash
-npm install
+### ✅ Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js & npm](https://nodejs.org/)
+- MetaMask or any Ethereum wallet extension in your browser
+
+---
+
+### 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/RajinisoumyaD/decentralised-todo-dapp.git
+   cd decentralised-todo-dapp
